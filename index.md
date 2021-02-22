@@ -51,11 +51,11 @@ The offer is open to you if:
 
 If you're interested in working together after reading all of the above, please click the button below and fill out the simple Google Form. From there, you will be given a calendar link to pick a call slot, and if nothing there works, we'll reach out to find a time that does.
 
-[-> Click here](https://forms.google.com)
+[-> Click here](https://www.skillofads.com/survey.html)
 
 **Note** - If you’re interested but now’s not the right time - personally or professionally - we understand. To help, there's a box to express that in the form. If you select that, we won't spam you, market, sell, pester, or anything like that. Instead, you'll receive no more than 1 email per _quarter_ from us, saying only: "Ready to work together?" If you're ready, you can just reply to that email and we'll go from there.
 
-[-> Click here](https://forms.google.com)
+[-> Click here](https://www.skillofads.com/survey)
 
 Best,
 CH, founder.
