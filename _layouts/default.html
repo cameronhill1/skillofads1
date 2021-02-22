@@ -12,7 +12,7 @@
       </script>
     {% endif %}
     <meta charset="UTF-8">
-    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
 {% seo %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -24,11 +24,6 @@
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
-
-    <header class="page-header" role="banner">
-      <h1 class="project-name">{{ "The Skill of Ads" | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ "A simple, performance-based digital agency." | default: site.description | default: site.github.project_tagline }}</h2>
-    </header>
 
     <main id="content" class="main-content" role="main">
       {{ content }}
