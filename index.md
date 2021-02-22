@@ -4,7 +4,7 @@
 
 ## The offer
 
-Become one of our three clients / partners...
+Become one of our three partners:
 
 - Performance-based relationship - we produce directly trackable results; pay nothing if we don't.
 - No contracts - beyond the mandatory initial 3-month testing period, there are no commitments, for either party. We stay if it's a win-win.
