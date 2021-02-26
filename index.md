@@ -1,6 +1,10 @@
 # The Skill of Ads
 ### How to get the business you deserve
 
+##### We are a performance-based digital ads agency, focused on building long-term, win-win partnerships based on trust and real results, rather than contracts and questionable progress.
+
+##### We keep things simple, in all areas - from our small number of quality partners, to our barebones website - so we can focus on clean, original thinking and creativity to produce a strong ROI.
+
 
 ## The offer
 
@@ -30,7 +34,7 @@ The offer is open to you if:
 
 - **"T-stacked" abilities** - Before founding, CH, our principal, worked in all domains of the customer experience - from grassroots events and awareness-based promotions for major brands like Škoda and VW, to cutting his teeth in cold-calling and door-to-door sales (business and consumer), and even developing high-end websites and marketing funnels (from high-level strategy down to button-clicking and coding), before really focusing in on digital advertising, and cultivating the "skill" of ads.
 
-- **Fundamentals over flash** - Technology trends, marketing tactics, and even entire advertising platforms come and go... But the fundamentals of business, sales, and human nature - such as experimentation, creativity, and empathy - these stay largely the same. This is where the true "skill" in advertising is. If you have a firm grasp of the fundamental principles, you can invent your own tactics. And if you don't - no chatbot or clever technical trick could possibly save you anyway.
+- **Fundamentals over fads** - Technology trends, marketing tactics, and even entire advertising platforms come and go... But the fundamentals of business, sales, and human nature - such as experimentation, creativity, and empathy - these stay largely the same. This is where the true "skill" in advertising is. If you have a firm grasp of the fundamental principles, you can invent your own tactics, and ride the trend "waves" as they come and go. But if you don't - no clever "trick" or ad acrobatics could possibly save you anyway.
 
 
 ## The typical process
