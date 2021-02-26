@@ -1,6 +1,6 @@
 # The "Skill" of Ads - How to enjoy scaling a Good business
 
-##### We are a performance-based digital ads agency, focused on building long-term, win-win partnerships based on trust and real results, rather than contracts and questionable progress.
+#### We are a performance-based digital ads agency, focused on building long-term, win-win partnerships based on trust and real results, rather than contracts and questionable progress.
 
 ##### We keep things simple, in all areas - from our small number of quality partners, to our barebones website - so we can focus on clean, original thinking and creativity to produce a strong ROI.
 
